@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WH6tZwvkwzkiGWc0sxUKh0f7hbxo0XwCax8LJ2LEBIaCD35p/M5Y3ndIpwwYd0HwI2A2corFy716rfiY2AQZuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\Class27Methods\\Class27Methods\\Class27Methods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

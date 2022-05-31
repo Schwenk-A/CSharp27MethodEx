@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\bin\Debug\net5.0\Class27Methods.exe
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\bin\Debug\net5.0\Class27Methods.deps.json
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\bin\Debug\net5.0\Class27Methods.runtimeconfig.json
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\bin\Debug\net5.0\Class27Methods.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\bin\Debug\net5.0\Class27Methods.dll
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\bin\Debug\net5.0\Class27Methods.pdb
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\obj\Debug\net5.0\Class27Methods.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\obj\Debug\net5.0\Class27Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\obj\Debug\net5.0\Class27Methods.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\obj\Debug\net5.0\Class27Methods.AssemblyInfo.cs
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\obj\Debug\net5.0\Class27Methods.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\obj\Debug\net5.0\Class27Methods.dll
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\obj\Debug\net5.0\refint\Class27Methods.dll
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\obj\Debug\net5.0\Class27Methods.pdb
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\obj\Debug\net5.0\Class27Methods.genruntimeconfig.cache
+C:\Users\andre\source\repos\Class27Methods\Class27Methods\obj\Debug\net5.0\ref\Class27Methods.dll
